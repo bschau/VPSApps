@@ -1,0 +1,27 @@
+[
+{
+	"Name": "DR Nyheder",
+	"RssUrl": "https://www.dr.dk/nyheder/service/feeds/allenyheder",
+	"WebUrl": "https://www.dr.dk/"
+},{
+	"Name": "DR Sporten",
+	"RssUrl": "https://www.dr.dk/nyheder/service/feeds/sporten",
+	"WebUrl": "https://www.dr.dk/"
+},{
+	"Name": "LWN.net",
+	"RssUrl": "https://lwn.net/headlines/rss",
+	"WebUrl": "https://lwn.net/"
+},{
+	"Name": "Mobil.nu",
+	"RssUrl": "https://mobil.nu/feed",
+	"WebUrl": "https://mobil.nu/"
+},{
+	"Name": "PCWorld",
+	"RssUrl": "https://www.pcworld.com/index.rss",
+	"WebUrl": "https://www.pcworld.com/"
+},{
+	"Name": "The daily WTF",
+	"RssUrl": "http://syndication.thedailywtf.com/TheDailyWtf",
+	"WebUrl": "http://thedailywtf.com/"
+}
+]

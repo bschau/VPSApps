@@ -224,7 +224,7 @@ class PodGrabr():
                 body: body text
         """
         text = "Please read this in a HTML mail user agent."
-        recipients = self.settings['recipients']
+        recipients = self.settings['podgrabrto']
         message = MIMEMultipart('alternative')
         message['Subject'] = title
         message['From'] = self.settings['from']
